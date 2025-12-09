@@ -77,6 +77,35 @@ This system was built as a Final Project for a tech startup cybersecurity simula
 
 2. Tracks user actions for accountability
 
+### Cryptography & Hashing Demo
+
+- Run the demo:
+
+      python crypto_demo_full.py
+
+- Register a user:
+
+      Username: crypto_test
+
+      Password: Crypto123!
+
+- Login to see:
+
+      SHA-256 hashed password
+
+      Base64 encoded password
+
+      Hash comparison validation
+
+- View stored hashes:
+
+      python view_users.py
+
+
+
+
+### 📄 JSON & Database Files
+
 | File | Purpose |
 |------|---------|
 | `users.db` | Stores user credentials with hashed passwords (SHA-256). |
