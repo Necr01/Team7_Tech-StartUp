@@ -1,0 +1,18 @@
+[2025-12-09 21:02:25] FAILED login attempt for user: 
+[2025-12-09 21:03:20] New user registered: ADMIN1 (admin)
+[2025-12-09 21:03:32] User logged in: ADMIN1
+[2025-12-09 21:03:40] Incident logged by ADMIN1: 
+[2025-12-09 21:04:02] ADMIN1 logged out.
+[2025-12-09 21:04:25] New user registered: USER1 (user)
+[2025-12-09 21:04:35] User logged in: USER1
+[2025-12-09 21:04:46] USER1 logged out.
+[2025-12-09 21:04:54] User logged in: ADMIN1
+[2025-12-09 21:45:18] User logged in: ADMIN1
+[2025-12-09 21:45:58] Incident logged by ADMIN1: Database Breach
+[2025-12-09 21:50:09] BIA record added by ADMIN1 for Office Laptops
+[2025-12-09 21:50:22] ADMIN1 logged out.
+[2025-12-09 21:50:35] User logged in: USER1
+[2025-12-09 21:50:48] USER1 logged out.
+[2025-12-09 21:51:00] FAILED login attempt for user: ADMIN1
+[2025-12-09 21:51:16] User logged in: ADMIN1
+[2025-12-09 21:51:28] ADMIN1 logged out.

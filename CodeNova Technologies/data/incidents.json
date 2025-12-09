@@ -1,0 +1,18 @@
+[
+    {
+        "time": "2025-12-09 21:03:40",
+        "user": "ADMIN1",
+        "type": "",
+        "affected": "",
+        "action": "",
+        "status": "Reported"
+    },
+    {
+        "time": "2025-12-09 21:45:58",
+        "user": "ADMIN1",
+        "type": "Database Breach",
+        "affected": "BIA Records",
+        "action": "None",
+        "status": "Reported"
+    }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "threat": "Ransomware Attack",
+    "vulnerability": "Unpatched systems",
+    "likelihood": "High",
+    "impact": "Critical",
+    "countermeasure": "Regular backups, patching"
+  }
+
+]

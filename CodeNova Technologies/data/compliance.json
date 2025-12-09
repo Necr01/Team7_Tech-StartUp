@@ -1,0 +1,5 @@
+[
+  {"policy": "Data Privacy Policy", "description": "User data must be encrypted"},
+  {"policy": "Acceptable Use Policy", "description": "No sharing company credentials"},
+  {"policy": "Incident Reporting Policy", "description": "All incidents must be reported immediately"}
+]

@@ -1,0 +1,7 @@
+[
+    {"name": "Source Code Repository", "classification": "Highly Confidential"},
+    {"name": "Customer Database", "classification": "Highly Confidential"},
+    {"name": "Cloud Servers", "classification": "Confidential"},
+    {"name": "HR Payroll System", "classification": "Confidential"},
+    {"name": "Office Network", "classification": "Internal"}
+]

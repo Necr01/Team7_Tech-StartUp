@@ -1,0 +1,11 @@
+[
+    {
+        "time": "2025-12-09 21:50:09",
+        "user": "ADMIN1",
+        "asset": "Office Laptops",
+        "threat": "Theft or loss of laptops containing sensitive data",
+        "financial": "$1,000 \u2013 $3,000 per laptop (hardware + data recovery)",
+        "operational": "Staff cannot work; sensitive data temporarily unavailable",
+        "recovery": "Revoke access tokens; enable remote wipe if possible; replace devices"
+    }
+]
